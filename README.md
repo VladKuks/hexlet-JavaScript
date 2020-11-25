@@ -1,1 +1,1 @@
-# hexlet-JavaScript
+Мой первый проект на JS
